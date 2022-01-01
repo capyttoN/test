@@ -1,1 +1,1 @@
-console.log('test1')
+const test1 = 'test1'
